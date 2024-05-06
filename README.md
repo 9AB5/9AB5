@@ -1,4 +1,4 @@
-### Hi there 👋
+ 👋 Hi there! I am Akshansh, a passionate Computer Science and Engineering student currently pursuing my bachelor's degree.
 
 <!--
 **9AB5/9AB5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
