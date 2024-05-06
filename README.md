@@ -1,4 +1,5 @@
- 👋 Hi there! I am Akshansh, a passionate Computer Science and Engineering student currently pursuing my bachelor's degree and am   enthusiastic about contributing to open-source projects. I am interested in connecting with tech enthusiasts, mentors and industry professionals who  share my passion for the same field.
+👋 Hi there! I am Akshansh, a passionate Computer Science and Engineering student currently pursuing my bachelor's degree and am   enthusiastic about contributing to open-source projects. I am interested 
+  in connecting with tech enthusiasts, mentors and industry professionals who  share my passion for the same field.
  <br>
  <br>
  In addition to passion for coding, I sometimes also play chess to develop logical skills. And I used to take part in game development using unreal engine.
@@ -9,7 +10,7 @@
  <br>
  Skill Set:
  <br>
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,c,py,unreal)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,cpp,c,py,mysql,unreal)](https://skillicons.dev)
  <br>
  <br>
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/akshansh-bansal-439954233/)<br>
