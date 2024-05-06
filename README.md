@@ -2,7 +2,7 @@
   in connecting with tech enthusiasts, mentors and industry professionals who  share my passion for the same field.
  <br>
  <br>
- In addition to passion for coding, I sometimes also play chess to develop logical skills. And I used to take part in game development using unreal engine.
+ 🎮 In addition to passion for coding, I sometimes also play chess to develop logical skills. And I used to take part in game development using unreal engine.
  <br>
  <br>
  I’m currently learning new languages or framework which help me booster my skills and be able to apply them on different projects and can use them in different contributions I'll made in future.
